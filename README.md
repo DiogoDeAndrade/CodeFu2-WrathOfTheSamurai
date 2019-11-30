@@ -29,7 +29,7 @@ The first push of this repository is the initial state of the game:
 - Prefabs for enemies and entities, without any scripts, colliders, animators, etc... Basically, just the graphics for them
 - Level layout and waypoints
 
-The second commit will be finalized game during the session.
+The last commit will be the finalized game during the session.
 
 ## What worked
 
