@@ -29,12 +29,16 @@ The first push of this repository is the initial state of the game:
 - Prefabs for enemies and entities, without any scripts, colliders, animators, etc... Basically, just the graphics for them
 - Level layout and waypoints
 
-The last commit will be the finalized game during the session.
-
 ## What worked
 
-...
+- Most of the "game" works (even if it took plus 30 minutes than expected)
 
 ## What could be added
 
-...
+- There is no collision detection on the enemies' lasers, so they can go through walls
+- There is no end-condition (goal does not work)
+
+## Conclusion
+
+- It was an interesting live-coding session. The game took longer than expected, explanations took some valuable time, but they are an integral part of the experience.
+- Future Code-Fu's might focus on smaller subsystems maybe...
